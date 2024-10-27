@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/speakWrite/static/css/main.afce5ebb.css",
+    "main.js": "/speakWrite/static/js/main.aed8ed14.js",
+    "static/js/787.09fafde0.chunk.js": "/speakWrite/static/js/787.09fafde0.chunk.js",
+    "index.html": "/speakWrite/index.html",
+    "main.afce5ebb.css.map": "/speakWrite/static/css/main.afce5ebb.css.map",
+    "main.aed8ed14.js.map": "/speakWrite/static/js/main.aed8ed14.js.map",
+    "787.09fafde0.chunk.js.map": "/speakWrite/static/js/787.09fafde0.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.afce5ebb.css",
+    "static/js/main.aed8ed14.js"
+  ]
+}
